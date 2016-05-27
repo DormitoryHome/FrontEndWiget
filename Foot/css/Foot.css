@@ -1,0 +1,12 @@
+div.Foot{
+    border-top: 1px solid #E5E5E5;
+    padding: 20px 0 30px;
+    text-align: center;
+}
+
+a.ContactUs{
+    font-family: 华文宋体;
+    font-size: 15px;
+    font-weight: 300;
+    color: #E5E5E5;
+}
